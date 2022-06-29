@@ -1,0 +1,4 @@
+#Tue Jun 28 15:22:58 IST 2022
+base.0=/home/slayer/StudioProjects/bmi-calculator-flutter/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
